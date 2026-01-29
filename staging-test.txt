@@ -1,1 +1,1 @@
-"Testing staging push" 
+"Testing staging push - $(date)" 
